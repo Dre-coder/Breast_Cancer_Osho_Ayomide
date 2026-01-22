@@ -2,5 +2,5 @@ Name: Osho Ayomide
 Matric Number: 23CG034142
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
-Live URL:
-GitHub Repository: 
+Live URL:https://breast-cancer-osho-ayomide.onrender.com
+GitHub Repository: https://github.com/Dre-coder/Breast_Cancer_Osho_Ayomide
